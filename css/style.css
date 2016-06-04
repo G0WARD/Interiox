@@ -1,0 +1,122 @@
+@font-face {
+    font-family: Osvald; /* Имя шрифта */
+    src: url(fonts/Oswald-Regular.ttf); /* Путь к файлу со шрифтом */
+   }
+.container-fluid{
+    background-image: url(../images/Background.png);
+/*    width: 1396px;  */
+}
+.header{
+    width: 939px;
+    margin: 0 auto;
+    background-color: rgb(20, 20, 20);
+    overflow: hidden;
+}
+.logo{
+    margin-top: 24px;
+}
+.navbar {
+    display: block;
+    margin-top: 70px;
+}
+.menu{
+    margin-top: 70px;
+    overflow: hidden;
+}
+.menu ul{
+    padding-left: 63px;
+}
+.menu ul li a{
+    margin-right: 82px;
+    float: left;
+    font-family: Osvald;
+    font-size: 16px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white;
+}
+
+.blog{
+    padding-left: 225px;
+}
+.content{
+    overflow: hidden;
+    padding-top: 164px;
+}
+.row{
+    
+}
+
+.blog_1{
+    
+    font-size:  32px;
+    text-transform: uppercase;
+    font-family: Osvald;
+    
+    color: white;
+    padding-bottom: 28px;
+}
+.text_under_blog{
+    text-transform: uppercase;
+    color: white;
+    padding-bottom: 12px;
+    font-family: Osvald;
+    color: white;
+   
+}
+.text_2{
+    font-size: 14px;
+    font-family: Osvald;
+    color: #939393;
+    
+}
+.col-lg-6{
+    padding-left: 33px;
+}
+.picture{
+    padding-top: 15px;
+}
+.under_picture{
+    padding-top: 45px;
+    color: white;
+    font: bold 12px Arial, Verdana, sans-serif;
+    
+}
+.under_picture2{
+    padding-top: 35px;
+    color: #939393;
+    font:  12px Arial, Verdana, sans-serif;
+     padding-bottom: 31px;
+}
+.button{
+   
+    text-transform: uppercase;
+    color: white;
+    font: bold 11px Arial, Verdana, sans-serif;
+}
+.line{
+    padding-top: 49px;
+    
+}
+.block_navigation{
+    height: 135px;
+    width: 540px;
+    
+   
+}
+.navigation{
+    
+    
+}
+.cms{
+    padding-left: 33px;
+    height: 115px;
+    width: 540px;
+    background-color: rgb(14, 14, 14);;
+    
+}
+.text_cms{
+    padding-top: 41px;
+    color: #939393;
+    font:  12px Arial, Verdana, sans-serif;
+}
